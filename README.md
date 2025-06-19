@@ -10,7 +10,7 @@ This project was submitted for our college algorithm course exam in 2023. It was
 - Partner contributed standard logic and basic structures
 
 ⚙️ Language & Tools:
-- [Insert Language, e.g., C++ or Java]
+- Java
 - Console-based interaction
 - Compiled and tested on [insert IDE/environment]
 
